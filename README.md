@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://www.sololearn.com/certificates/course/en/23005508/1024/landscape/png">SoloLearn JavaScript certificate</a>
+
 <!--
 **andreiluizf/andreiluizf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
