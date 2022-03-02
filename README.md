@@ -1,7 +1,7 @@
 ### Hello, world! 👋
 ### It's me, Andrei! 
 https://allmylinks.com/omanezinho
-  
+https://catalog-education.oracle.com/pls/certview/sharebadge?id=37FECE4484AA772FDF31AE465BB5B03F00E840632FFBDA068A67E9E6F1E91586
 <a href="https://www.sololearn.com/certificates/course/en/23005508/1024/landscape/png">JavaScript certificate</a> (SoloLearn) <br/>
 <a href="https://www.sololearn.com/certificates/course/en/23005508/1060/landscape/png">SQL certificate</a> (SoloLearn) 
 <!--
