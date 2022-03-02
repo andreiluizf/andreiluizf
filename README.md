@@ -1,5 +1,5 @@
-### Hello, world! 👋
-### It's me, Andrei! 
+<h3>Hello, world! 👋
+<br/>It's me, Andrei! </h3>
 <br/>
 https://catalog-education.oracle.com/pls/certview/sharebadge?id=37FECE4484AA772FDF31AE465BB5B03F00E840632FFBDA068A67E9E6F1E91586
 <br/> <a href="https://www.sololearn.com/certificates/course/en/23005508/1024/landscape/png">JavaScript certificate</a> (SoloLearn) <br/>
