@@ -1,6 +1,7 @@
 <h3>Hello, world! 👋🏼
 <br/>It's me, Andrei! </h3>
-<br/><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=37FECE4484AA772FDF31AE465BB5B03F00E840632FFBDA068A67E9E6F1E91586">OCI Foundations Associate Certification</a> (Oracle)<br/>
+<br/><a href="https://www.udemy.com/certificate/UC-051d8fe6-2275-4028-a89e-5fb4062d9e2d/">Oracle SQL Especialista: do Básico ao Avançado</a><br/>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=37FECE4484AA772FDF31AE465BB5B03F00E840632FFBDA068A67E9E6F1E91586">OCI Foundations Associate Certification</a> (Oracle)<br/>
  <a href="https://www.sololearn.com/certificates/course/en/23005508/1024/landscape/png">JavaScript certificate</a> (SoloLearn) <br/>
 <a href="https://www.sololearn.com/certificates/course/en/23005508/1060/landscape/png">SQL certificate</a> (SoloLearn) 
 <!--
