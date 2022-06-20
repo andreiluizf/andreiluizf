@@ -6,6 +6,7 @@
     <th>Language</th>
     <th>Link</th>
     <th>Company</th>
+    <th>Date</th>
   </tr>
   <tr>
     <th>English</th>
