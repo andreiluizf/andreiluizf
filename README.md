@@ -22,6 +22,7 @@
     <th>Oracle APEX RESTful Services</th>
     <th><a href="https://www.udemy.com/certificate/UC-5d2a96f3-e484-4a5b-aa00-ab95b919c4d3/">RESTful Services in Oracle APEX - The Complete Guide (2022)</a></th>
     <th>Udemy</th>
+    <th>04/28/2022</th>
   </tr>
     <tr>
     <th>Oracle APEX</th>
