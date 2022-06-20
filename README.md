@@ -17,6 +17,11 @@
     <th><a href="https://www.udemy.com/certificate/UC-051d8fe6-2275-4028-a89e-5fb4062d9e2d/">Oracle SQL Especialista: do Básico ao Avançado</a></th>
     <th>Udemy</th>
   </tr>
+    <tr>
+    <th>Oracle APEX RESTful Services</th>
+    <th><a href="https://www.udemy.com/certificate/UC-051d8fe6-2275-4028-a89e-5fb4062d9e2d/">RESTful Services in Oracle APEX - The Complete Guide (2022)</a></th>
+    <th>Udemy</th>
+  </tr>
   <tr>
     <th>Oracle Cloud Infrastructure</th>
     <th><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=37FECE4484AA772FDF31AE465BB5B03F00E840632FFBDA068A67E9E6F1E91586">OCI Foundations Associate</a></th>
