@@ -22,6 +22,11 @@
     <th><a href="https://www.udemy.com/certificate/UC-5d2a96f3-e484-4a5b-aa00-ab95b919c4d3/">RESTful Services in Oracle APEX - The Complete Guide (2022)</a></th>
     <th>Udemy</th>
   </tr>
+    <tr>
+    <th>SQL</th>
+    <th><a href="https://www.sololearn.com/certificates/course/en/23005508/1060/landscape/png">SQL certificate</a></th>
+    <th>SoloLearn</th>
+  </tr>
   <tr>
     <th>Oracle Cloud Infrastructure</th>
     <th><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=37FECE4484AA772FDF31AE465BB5B03F00E840632FFBDA068A67E9E6F1E91586">OCI Foundations Associate</a></th>
@@ -38,7 +43,9 @@
     <th>SoloLearn</th>
   </tr>
 </table>  
-
+ The Complete Oracle APEX Fundamentals Course (2022) on 03/20/2022 
+ 
+ https://www.udemy.com/certificate/UC-1c3f572f-fe54-4b47-b303-a9a8e3cae858/
 <!--
 **andreiluizf/andreiluizf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
