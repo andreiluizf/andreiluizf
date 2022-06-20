@@ -12,6 +12,7 @@
     <th>English</th>
     <th><a href="https://efset.org/cert/wP5inj">English level Certificate</a></th>
     <th>EF SET</th>
+    <th>03/10/2022</th>
   </tr>
   <tr>
     <th>SQL</th>
