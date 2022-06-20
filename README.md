@@ -17,6 +17,7 @@
     <th>SQL</th>
     <th><a href="https://www.udemy.com/certificate/UC-051d8fe6-2275-4028-a89e-5fb4062d9e2d/">Oracle SQL Especialista: do Básico ao Avançado</a></th>
     <th>Udemy</th>
+    <th>03/10/2022</th>
   </tr>
     <tr>
     <th>Oracle APEX RESTful Services</th>
