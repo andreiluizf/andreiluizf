@@ -25,8 +25,9 @@
   </tr>
     <tr>
     <th>Oracle APEX</th>
-    <th><a href="https://www.udemy.com/certificate/UC-1c3f572f-fe54-4b47-b303-a9a8e3cae858/">The Complete Oracle APEX Fundamentals Course (2022) on 03/20/2022</a></th>
+    <th><a href="https://www.udemy.com/certificate/UC-1c3f572f-fe54-4b47-b303-a9a8e3cae858/">The Complete Oracle APEX Fundamentals Course (2022)</a></th>
     <th>Udemy</th>
+    <th>03/20/2022</th>
   </tr>
   <tr>
     <th>Oracle Cloud Infrastructure</th>
