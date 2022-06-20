@@ -23,9 +23,9 @@
     <th>Udemy</th>
   </tr>
     <tr>
-    <th>SQL</th>
-    <th><a href="https://www.sololearn.com/certificates/course/en/23005508/1060/landscape/png">SQL certificate</a></th>
-    <th>SoloLearn</th>
+    <th>Oracle APEX</th>
+    <th><a href="https://www.udemy.com/certificate/UC-1c3f572f-fe54-4b47-b303-a9a8e3cae858/">The Complete Oracle APEX Fundamentals Course (2022) on 03/20/2022</a></th>
+    <th>Udemy</th>
   </tr>
   <tr>
     <th>Oracle Cloud Infrastructure</th>
@@ -43,9 +43,6 @@
     <th>SoloLearn</th>
   </tr>
 </table>  
- The Complete Oracle APEX Fundamentals Course (2022) on 03/20/2022 
- 
- https://www.udemy.com/certificate/UC-1c3f572f-fe54-4b47-b303-a9a8e3cae858/
 <!--
 **andreiluizf/andreiluizf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
