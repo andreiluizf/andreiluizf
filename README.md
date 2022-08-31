@@ -3,10 +3,10 @@
 <br/>
 <table id="Certificates">
   <tr>
-    <th>Language</th>
-    <th>Link</th>
-    <th>Company</th>
-    <th>Date</th>
+    <th><b>Language</b></th>
+    <th><b>Link</b></th>
+    <th><b>Company</b></th>
+    <th><b>Date</b></th>
   </tr>
   <tr>
     <th>English</th>
