@@ -15,6 +15,13 @@
     <th>03/10/2022</th>
   </tr>
   <tr>
+    <th>Oracle APEX Cloud Developer Certified Professional</th>
+    <th><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=37FECE4484AA772FDF31AE465BB5B03F00E840632FFBDA068A67E9E6F1E91586"
+          ><i>OCI Foundations Associate</i></a></th>
+    <th>Oracle</th>
+    <th>02/28/2022</th>
+  </tr>
+  <tr>
     <th>SQL</th>
     <th><a href="https://www.udemy.com/certificate/UC-051d8fe6-2275-4028-a89e-5fb4062d9e2d/"><i>Oracle SQL Especialista: do Básico ao Avançado</i></a></th>
     <th>Udemy</th>
