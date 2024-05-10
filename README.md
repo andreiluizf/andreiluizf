@@ -17,7 +17,7 @@
   <tr>
     <th>Oracle APEX Cloud Developer Certified Professional</th>
     <th><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=37FECE4484AA772FDF31AE465BB5B03F00E840632FFBDA068A67E9E6F1E91586"
-          ><i>OCI Foundations Associate</i></a></th>
+          ><i>APEX Developer Professional</i></a></th>
     <th>Oracle</th>
     <th>02/28/2022</th>
   </tr>
