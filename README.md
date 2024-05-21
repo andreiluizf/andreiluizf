@@ -15,7 +15,7 @@
     <th>03/10/2022</th>
   </tr>
   <tr>
-    <th>Oracle APEX Cloud Developer Certified Professional</th>
+    <th>Oracle APEX Cloud Developer</th>
     <th><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=F09FA8D39842322C43FE029B369E76C0E1BC14491AFEAB4E591DFE25A3BC4AEC"
           ><i>APEX Developer Professional</i></a></th>
     <th>Oracle</th>
