@@ -19,7 +19,7 @@
     <th><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=F09FA8D39842322C43FE029B369E76C0E1BC14491AFEAB4E591DFE25A3BC4AEC"
           ><i>APEX Developer Professional</i></a></th>
     <th>Oracle</th>
-    <th>02/28/2022</th>
+    <th>08/18/2023</th>
   </tr>
   <tr>
     <th>SQL</th>
